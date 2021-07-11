@@ -55,3 +55,8 @@ body{
 .dropdown-container:hover .dropdown-content{
 	display: block;
 }
+
+h1{
+	color: white;
+	font-family: sans-serif;
+}
