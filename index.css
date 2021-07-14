@@ -34,7 +34,7 @@ body{
 	background-color: #011627;
 	text-align: center;
 	font-family: sans-serif;
-	border-radius: 15px;
+	border-radius: 10px;
 	min-height: 0px;
 	display: none;
 }
@@ -73,4 +73,14 @@ h1{
 .photogallery{
 	color: white;
 	text-decoration: none;
+}
+
+.clubplayer{
+	margin: 10px;
+	padding: 10px;
+}
+
+.argentinacopa{
+	margin: 10px;
+	padding: 10px;
 }
