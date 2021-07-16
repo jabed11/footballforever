@@ -4,11 +4,11 @@
 }
 
 body{
-	background-color: #247ba0;
+	background-color: #1D1B1B;
 }
 
 .navbar{
-	background-color: #011627;
+	background-color: #EC4D37;
 	padding: 6px 17px;
 	text-align: center;
 }
@@ -22,6 +22,11 @@ body{
 	cursor: pointer;
 }
 
+.navbar a:hover{
+	background-color: rgba(208, 212, 0, 0.7);
+	padding: 7px 50px;
+}
+
 .dropdown-container{
 	display: inline;
 	position: relative;
@@ -29,9 +34,9 @@ body{
 
 .dropdown-content{
 	position: absolute;
-	top: 27px;
+	top: 26px;
 	right: 0px;
-	background-color: #011627;
+	background-color: #EC4D37;
 	text-align: center;
 	font-family: sans-serif;
 	border-radius: 10px;

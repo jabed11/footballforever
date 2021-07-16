@@ -1,12 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
 body{
-	background-color: #247ba0;
+	background-color: #1D1B1B;
 }
 
 .navbar{
-	background-color: #011627;
+	background-color: #EC4D37;
 	padding: 6px 17px;
 	text-align: center;
-	border-radius: 7px;
 }
 
 .navbar a{
@@ -16,6 +20,11 @@ body{
 	font-family: sans-serif;
 	padding: 10px 50px;
 	cursor: pointer;
+}
+
+.navbar a:hover{
+	background-color: rgba(208, 212, 0, 0.7);
+	padding: 7px 50px;
 }
 
 .dropdown-container{
